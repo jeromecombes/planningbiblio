@@ -11,6 +11,7 @@
             "email": "alex.arnaud@biblibre.com"
         }
     ],
+    "license": "GPL-2+",
     "require": {
         "php": ">=7.0",
         "apereo/phpcas": "^1.3",
